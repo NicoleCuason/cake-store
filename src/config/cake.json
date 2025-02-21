@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "type of cake": "Creme Brulee",
+        "description": "A layered cake with a creamy custard filling and a caramelized sugar topping, combining the flavors of crème brûlée in a cake form.",
+        "price": 50.00,
+        "artworkUrl": "https://kwikarecipes.com/wp-content/uploads/2024/10/creme-brulee-cake.webp"
+    },
+    {
+        "id": 2,
+        "type of cake": "Tiramisu",
+        "description": "A classic Italian dessert with layers of coffee-soaked ladyfingers, mascarpone cheese, cocoa powder, and a dusting of chocolate, served chilled.",
+        "price": 35.00,
+        "artworkUrl": "https://tfkcc.com/wp-content/uploads/2020/11/Tiramisu-01-scaled.jpg"
+    },
+    {
+        "id": 3,
+        "type of cake": "Raspberry Vanilla",
+        "description": "A light and fluffy cake flavored with vanilla, layered with fresh raspberries or raspberry filling, and often frosted with a creamy vanilla buttercream.",
+        "price": 30.00,
+        "artworkUrl": "https://cuisinedaubery.com/wp-content/uploads/2024/12/entremetsvanilleframboise_ALTERN09.jpg"
+    },
+    {
+        "id": 4,
+        "type of cake": "Chocolate",
+        "description": "A rich, moist cake made with cocoa powder or melted chocolate, often paired with chocolate frosting for a decadent, indulgent dessert.",
+        "price": 25.00,
+        "artworkUrl": "http://marecipes.com/wp-content/uploads/gateau-au-chocolat.jpg"
+    },
+    {
+        "id": 5,
+        "type of cake": "Strawberry Shortcake",
+        "description": "A sweet dessert made with layers of fluffy biscuits or sponge cake, fresh strawberries, and whipped cream.",
+        "price": 30.00,
+        "artworkUrl": "https://zhangcatherine.com/wp-content/uploads/2021/06/P1010827-Edit-768x1024.jpg.webp"
+    },
+    {
+        "id": 6,
+        "type of cake": "Caramel Bread Pudding",
+        "description": "A warm, comforting dessert made with bread soaked in a rich caramel custard, baked until golden, and often drizzled with more caramel sauce.",
+        "price": 20.00,
+        "artworkUrl": "https://www.yummytummyaarthi.com/wp-content/uploads/2023/05/caramel-bread-pudding-1.jpeg"
+    }
+]
